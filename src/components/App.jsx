@@ -10,7 +10,11 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      React homework template Privet
+      React homework template Privet Kak delA?
     </div>
   );
 };
+
+/* <BrowserRouter basename="/goit-react-hw-05-movies">
+  <App />
+</BrowserRouter>; */
